@@ -4,6 +4,7 @@ import type { Config } from "tailwindcss";
 import { skeleton } from "@skeletonlabs/tw-plugin";
 import { tutors } from "./src/lib/ui/themes/styles/tutors";
 import { dyslexia } from "./src/lib/ui/themes/styles/dyslexia";
+import { bremen } from "./src/lib/ui/themes/styles/bremen";
 import typography from "@tailwindcss/typography";
 
 const config = {
