@@ -19,7 +19,7 @@ const config = {
     typography,
     skeleton({
       themes: {
-        custom: [tutors, dyslexia],
+        custom: [tutors, dyslexia, bremen],
         preset: [
           { name: "skeleton", enhancements: true },
           { name: "seafoam", enhancements: true },
